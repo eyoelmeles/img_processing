@@ -1,0 +1,3 @@
+[submodule "modules/matrix"]
+        path = modules/matrix
+        url = https://github.com/eyoelmeles/cpp-matrix
